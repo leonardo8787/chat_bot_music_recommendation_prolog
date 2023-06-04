@@ -34,5 +34,5 @@ Keep in mind that this is just a brief introduction to Prolog. The language has 
 
 ## Autors
 
-Leonardo Campos
+Leonardo Campos </p>
 Pedro Henrique
