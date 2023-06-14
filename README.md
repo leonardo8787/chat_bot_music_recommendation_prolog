@@ -27,7 +27,7 @@ Keep in mind that this is just a brief introduction to Prolog. The language has 
 
 ## Us chat
 
-## Observations
+This chat interface was developed for academic purposes and to provide training in propositional logic. It is designed to facilitate learning and understanding of logical concepts and reasoning. By engaging in conversations and posing logical questions, users can explore different aspects of propositional logic and enhance their knowledge and skills.
 
 ## Autors
 
