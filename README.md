@@ -3,17 +3,7 @@ Chat for music recommendation with prolog language.
 
 ## start project
 
-In terminal:
-
-~~~
-prolog 
-~~~
-
-In environement of prolog:
-
-~~~
-consult('main.pl').
-~~~
+![image](https://github.com/leonardo8787/chat_bot_music_recommendation_prolog/assets/78708394/31d8d140-5bd3-4849-8d76-12e49b85cdf5)
 
 ## What is PROLOG ?
 
