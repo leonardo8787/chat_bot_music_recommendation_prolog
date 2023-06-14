@@ -37,6 +37,3 @@ idioma("Bohemian Rhapsody", ingles).
 idioma("Despacito", espanhol).
 idioma("Fly Me to the Moon", ingles).
 idioma("Hallelujah", ingles).
-
-
-
